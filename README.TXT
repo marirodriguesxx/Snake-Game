@@ -10,4 +10,5 @@ enrollment: Es 98875
 ================================ How to Play? ======================
 1 - download the ncurse library
 2 - Enter the following command: g++ jogoSnake.cpp Snake.cpp Game.cpp Screen.cpp -lncurses -o jogoSnake.exe
+4 - Enter the following command: ./jogoSnake.exe
 3 - Have fun :)
