@@ -8,6 +8,6 @@ enrollment: Es 98875
 3 - acessando posições de um vetor de struct - https://www.dreamincode.net/forums/topic/100443-vector-of-structures/
 4 - https://stackoverflow.com/questions/14173217/c-calling-a-function-from-another-class
 ================================ How to Play? ======================
-1 - download the ncourse library
+1 - download the ncurse library
 2 - Enter the following command: g++ jogoSnake.cpp Snake.cpp Game.cpp Screen.cpp -lncurses -o jogoSnake.exe
 3 - Have fun :)
